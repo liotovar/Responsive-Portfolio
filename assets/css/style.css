@@ -50,6 +50,11 @@ h3 {
   font-size: 22px;
 }
 
+img{
+  float: left;
+  margin-right: 10px;
+}
+
 /* header */
 
 #masthead {
